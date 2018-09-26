@@ -26,7 +26,7 @@ public class ClickerWindow extends JFrame {
 	// Frame attributes
 	private JPanel content;
 	private double versionNumber = 0.92;
-	private String windowTitle = "Knight Clicker v." + versionNumber;
+	private String windowTitle = "Clicker v." + versionNumber;
 	private int width = 700;
 	private int height = 450;
 
